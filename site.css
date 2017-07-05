@@ -1,0 +1,29 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333; }
+
+.row .list-managment button {
+  color: #333; }
+
+.row span {
+  color: inherit; }
+
+.main {
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  height: 450px;
+  overflow-y: scroll; }
+
+.strike {
+  text-decoration: line-through; }
+
+.designer-properties .readOnlyProperty {
+  color: #818688; }
+.designer-properties .property-none-edit-container {
+  height: 100%; }
+
+.designer-properties .myClass {
+  color: #818688; }
+
+/*# sourceMappingURL=site.css.map */
